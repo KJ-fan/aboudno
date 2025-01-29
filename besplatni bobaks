@@ -1,0 +1,34 @@
+<html>
+<head>
+     <title> Роблакс </title>
+</head>
+
+<body style="background-color: gray; font-famaly: Brush Script MT">
+
+    <header>
+     <img src="https://dzhitoys.com.ua/image/cache/catalog/products/Blastery-NERF/Blaster-Nerf-Roblaks-MM2-Akula-Nerf-Roblox-MM2-Shark-Seeker-Hasbro-F6131-7-1400x1000.jpg" width="50px">
+      <a href="https://fisch.fandom.com/wiki/Pufferfish"> abaudna </a>
+
+      <a href="https://ru.wikipedia.org/wiki/Roblox"> roblaks </a>
+      
+    </header>
+    <main>
+        <h1 style="background-color: white"> roblaks </h1>
+
+        <p> <a href="https://roblox.fandom.com/wiki/Roblox_Wiki"> Roblox </a> - ігрова онлайн-платформа та система створення ігор, що дозволяє 
+будь-якому користувачеві створювати свої власні та грати у створені іншими ігри, що охоплюють широкий спектр жанрів. У деяких джерелах Roblox називають метавсесвітом. Станом на серпень 2020 року у Roblox понад 164 млн. активних користувачів на місяць на жовтень 2021 року понад 226 млн. </p>
+
+<img src="https://prod.docsiteassets.roblox.com/assets/studio/overview/Parts-Meshes-Models.jpg.webp" width="300px">
+
+<p> <a href="https://create.roblox.com/docs/studio"> Roblox Studio </a> - це власний рушій Roblox, який розробляє та підтримує Roblox Corporation, що дає змогу кожному користувачеві створювати й публікувати ігри будь-яких жанрів у необмеженій кількості, але виключно на самій платформі. Ігри кодуються в системі об'єктно-орієнтованого програмування, що використовує мову програмування Luau (діалект Lua) для управління ігровим середовищем. Користувачі можуть створювати ігрові продукти, що являють собою придбаний контент через разові покупки, а також мікротранзакції через продукти розробника. Розробники на сайті обмінюють Robux, зароблений на різних продуктах своїх ігор, на реальну валюту через систему Developer Exchange і Premium Exchange. Відсоток доходів від покупок ділиться між розробником і Roblox. З 1 листопада 2020 року Roblox Studio більше не підтримується на Mac OS X 10. </p>
+<img src="https://variety.com/wp-content/uploads/2021/06/Roblox.png" width="300px">
+    </main>
+
+    <footer>
+        <a style="font-size: 40px"> какой-то чел2: </a>
+        <a style="font-size: 20px"> i creator! </a>
+    </footer>
+
+</body>
+
+</html>
